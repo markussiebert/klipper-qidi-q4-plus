@@ -6,5 +6,5 @@
 !gcode_macro.cfg
 !KAMP_Settings.cfg
 !saved_variables.cfg
-!KAMP/**
+!KAMP/
 !.gitignore
